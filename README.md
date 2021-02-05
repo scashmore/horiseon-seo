@@ -15,11 +15,11 @@ An id was addded to the article containting the class search engine optimizatoin
 
 One error corrected in the style.css file was the lack of quotes as seen below.
 
-![Alt text](horiseon-seo/assets/images/CSSmistake.png)
+![Mistake](assets/images/CSSmistake.png)
 
 The correction is as follows.
 
-![Alt text](horiseon-seo\assets\images\corrected.png)
+![Correct](/assets/images/corrected.png)
 
 ## Credits
 
