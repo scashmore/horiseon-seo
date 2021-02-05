@@ -12,7 +12,7 @@ body {
 .header {
     /* gives the header 20px of space around elements inside the border */
     padding: 20px;
-    /* tells a web browser to use Trebuchet. If Trebuchent is not available, 
+    /* tells a web browser to use Trebuchet. If Trebuchent is not available,
     browser will show next font in list that is available */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     /* gives the header a background color */
@@ -21,7 +21,7 @@ body {
     color: #ffffff;
 }
 
-/* 
+/*
      */
 .header h1 {
     /* respects margins and padding, allows height and width manipulation,
@@ -43,7 +43,7 @@ body {
     margin-right: 20px;
     /* floats element to the right, wraps text as well */
     float: right;
-    /* tells a web browser to use Grill Sans. If Grill Sans is not available, 
+    /* tells a web browser to use Grill Sans. If Grill Sans is not available,
     browser will show next font in list that is available */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     /* gives font a size of 20 pixels */
@@ -89,7 +89,7 @@ p {
     /* centers hero's background */
     background-position: center;
 }
-    
+
     /* defines direction and margin of float-left */
 .float-left {
     float: left;
@@ -115,7 +115,7 @@ p {
 .benefits {
     /* gives elemnt 20 pixels of space to the outside on right */
     margin-right: 20px;
-    /*  gives the header 20 pixels of space around elements inside the border */
+    /* gives the header 20 pixels of space around elements inside the border */
     padding: 20px;
     /* clears float */
     clear: both;
@@ -125,121 +125,178 @@ p {
     width: 20%;
     /* elemnt height will take up 100% of container */
     height: 100%;
-    /* tells a web browser to use Grill Sans. If Grill Sans is not available, 
-    browser will show next font in list that is available  */
+    /* tells a web browser to use Grill Sans. If Grill Sans is not available,
+    browser will show next font in list that is available */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
 .benefit-lead {
+    /* gives element 32 pixels of space to the outside on bottom */
     margin-bottom: 32px;
+    /* colors text */
     color: #ffffff;
 }
 
 .benefit-brand {
+    /* gives element 32 pixels of space to the outside on bottom */
     margin-bottom: 32px;
+    /* colors text */
     color: #ffffff;
 }
 
 .benefit-cost {
+    /* gives element 32 pixels of space to the outside on bottom */
     margin-bottom: 32px;
+    /* colors text */
     color: #ffffff;
 }
 
 .benefit-lead h3 {
+    /* gives element 10 pixels of space to the outside on bottom */
     margin-bottom: 10px;
+    /* centers text */
     text-align: center;
 }
 
 .benefit-brand h3 {
+    /* gives element 10 pixels of space to the outside on bottom */
     margin-bottom: 10px;
+    /* centers text */
     text-align: center;
 }
 
 .benefit-cost h3 {
+    /* gives element 10 pixels of space to the outside on bottom */
     margin-bottom: 10px;
+    /* centers text */
     text-align: center;
 }
 
 .benefit-lead img {
+    /* element is displayed as a block */
     display: block;
+    /* gives element 10 pixels of space to the outside at the top and centers horizontally */
     margin: 10px auto;
+    /* element will not exceed 150 pixels in width */
     max-width: 150px;
 }
 
 .benefit-brand img {
+    /* element is displayed as a block */
     display: block;
+    /* gives element 10 pixels of space to the outside at the top and centers horizontally */
     margin: 10px auto;
+    /* element will not exceed 150 pixels in width */
     max-width: 150px;
 }
 
 .benefit-cost img {
+    /* element is displayed as a block */
     display: block;
+    /* gives element 10 pixels of space to the outside at the top and centers horizontally */
     margin: 10px auto;
+    /* element will not exceed 150 pixels in width */
     max-width: 150px;
 }
 
 .search-engine-optimization {
+    /* gives element 20 pixels of space to the outside on bottom */
     margin-bottom: 20px;
+    /* gives the header 50 pixels of space around elements inside the border */
     padding: 50px;
+    /* element is 300 pixels in height */
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* tells a web browser to use Grill Sans. If Grill Sans is not available,
+    browser will show next font in list that is available */
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    /* gives element background color */
     background-color: #0072bb;
+    /* gives text color */
     color: #ffffff;
 }
 
 .online-reputation-management {
+    /* gives element 20 pixels of space to the outside on bottom */
     margin-bottom: 20px;
+    /* gives the header 50 pixels of space around elements inside the border */
     padding: 50px;
+    /* element is 300 pixels in height */
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* tells a web browser to use Grill Sans. If Grill Sans is not available,
+    browser will show next font in list that is available */
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    /* gives element background color */
     background-color: #0072bb;
+    /* gives text color */
     color: #ffffff;
 }
 
 .social-media-marketing {
+    /* gives element 20 pixels of space to the outside on bottom */
     margin-bottom: 20px;
+    /* gives the header 50 pixels of space around elements inside the border */
     padding: 50px;
+    /* element is 300 pixels in height */
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* tells a web browser to use Grill Sans. If Grill Sans is not available,
+    browser will show next font in list that is available */
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    /* gives element background color */
     background-color: #0072bb;
+    /* gives text color */
     color: #ffffff;
 }
 
 .search-engine-optimization img {
+    /* max height element can be is 200 pixels */
     max-height: 200px;
 }
 
 .online-reputation-management img {
+    /* max height element can be is 200 pixels */
     max-height: 200px;
 }
 
 .social-media-marketing img {
+    /* max height element can be is 200 pixels */
     max-height: 200px;
 }
 
 .search-engine-optimization h2 {
+    /* gives element 20 pixels of space to the outside on bottom */
     margin-bottom: 20px;
+    /* gives font size of 30 pixels */
     font-size: 36px;
 }
 
 .online-reputation-management h2 {
+    /* gives element 20 pixels of space to the outside on bottom */
     margin-bottom: 20px;
+    /* gives font size of 30 pixels */
     font-size: 36px;
 }
 
 .social-media-marketing h2 {
+    /* gives elemnt 20 pixels of space to the outside on bottom */
     margin-bottom: 20px;
+    /* gives font size of 30 pixels */
     font-size: 36px;
 }
 
 .footer {
+    /* gives the footer 30 pixels of space around elements inside the border */
     padding: 30px;
+    /* clears flex */
     clear: both;
+    /* tells a web browser to use Trebuchent MS. If Trebuchent MS is not available,
+    browser will show next font in list that is available */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* centers text */
     text-align: center;
 }
 
 .footer h2 {
+    /* give font size of 20 pixels */
     font-size: 20px;
 }
